@@ -44,6 +44,10 @@ the timing diagram. */
 **PROGRAM**
 ![Screenshot 2024-11-29 173746](https://github.com/user-attachments/assets/8fe0b05d-b6c9-4905-89e8-0eb61acb37c8)
 
+/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus
+using Verilog programming.
+
+
 Developed by:Hari Ram R
 RegisterNumber:24005836
 
